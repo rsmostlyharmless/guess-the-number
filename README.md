@@ -9,3 +9,4 @@ Changes made:
 -   Background color will now change to red when the player loses the game.
 -   Skull and crossbones image will appear in the guess number box when the player loses.
 -   Score counter added that adds in the remainder score then passes the number to the highscore. Highscore will only change when a larger number is achieved in the counter.
+-   2 more functions made for the guess box and the score.
